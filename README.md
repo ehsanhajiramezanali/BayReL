@@ -23,3 +23,16 @@ This is a TensorFlow implementation of the BayReL model as described in our pape
 ```bash
 python bayRel_CF.py
 ```
+
+## Cite
+
+Please cite our paper if you use this code in your own work:
+
+```
+@article{hajiramezanali2020bayrel,
+  title={BayReL: Bayesian Relational Learning for Multi-omics Data Integration},
+  author={Hajiramezanali, Ehsan and Hasanzadeh, Arman and Duffield, Nick and Narayanan, Krishna R and Qian, Xiaoning},
+  journal={arXiv preprint arXiv:2010.05895},
+  year={2020}
+}
+```
